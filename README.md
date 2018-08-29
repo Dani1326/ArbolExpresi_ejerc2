@@ -5,7 +5,7 @@ Requirements
 
     Python 2.7.14
 
-#Usage
+# Usage
 
 Si esta usando una consola de Windows, el interprete de Python ya se debe encontrar en las variables de entorno, por lo cual solo es necesario usar el siguiente comando:
 
@@ -17,7 +17,7 @@ python pila.py
 
 Si esta usando un IDLE de Python, solo es necesario que abra el archivo y ejecute "Run Module" y tener los archivos "expresiones.in", "expresiones.out", "arbol.py", "pila.py" y "arbol_expresiones.py".
 
-#Authors
+# Authors
 
 Kevin Alexander Puentes Yaya - 20151020040  
 Diego Dayan Guerra Nuñez - 20152020024
