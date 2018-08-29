@@ -6,6 +6,7 @@ dictionary = {
 
 def updateDict(let, val):    
     dictionary[let.valor] = val
+    entrada.write(let.valor+' = '+str(dictionary[let.valor])+"\n")
     print let.valor+' = '+str(dictionary[let.valor])
 
 def convertir(lista, pila):
@@ -54,8 +55,9 @@ entrada = open("expresiones.out","w")
 while pila.es_vacia() != True:    
     res = evaluar(pila.desapilar())
     str(res)
-    entrada.write(str(res))
+    
     if res!= None:
+        entrada.write(str(res)+"\n")
         print res
 
 
