@@ -23,4 +23,4 @@ Si esta usando un IDLE de Python, solo es necesario que abra el archivo y ejecut
 
 Kevin Alexander Puentes Yaya - 20151020040  
 Diego Dayan Guerra Nuñez - 20152020024
-Daniel Parra - 20151020015
+Daniel Augusto Parra Castiblanco - 20151020015
